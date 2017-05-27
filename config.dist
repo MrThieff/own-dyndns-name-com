@@ -1,0 +1,7 @@
+{
+    "url": "https://api.name.com",
+    "account": <api_login>,
+    "token": <api_token>,
+    "domain_name_prefix": "home",
+    "domain": <domain_name>
+}
