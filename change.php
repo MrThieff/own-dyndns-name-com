@@ -5,6 +5,7 @@ require_once('CurlClient.php');
 require_once('DnsRecord.php');
 require_once('ApiWorker.php');
 
+
 $config = json_decode(file_get_contents('config.json'), true);
 
 $worker = new ApiWorker($config);
